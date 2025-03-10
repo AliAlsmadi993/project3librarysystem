@@ -1,0 +1,3 @@
+6,ali,ali0000000000000,4,3,available,~/Images/Books/default.png,assf
+7,nnn,bfhn,2,0,reserved,~/Images/Books/default.png,nvjhm
+8,ali,ahh,2,1,available,~/Images/Books/8_Screenshot 2024-12-25 144114.png,hdcc
